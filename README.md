@@ -1,0 +1,2 @@
+# Grocery-Store_BigBasket
+The products are available quickly and frequently at any store, every store has their set of grocery products which need to be managed properly in such a way that as one customer come to take the product the items can be easily removed and collected at a place, then it needs to be set according to the price. Here what this system does is in this system we can see the items like wheat, rice, pulses, soap and any other product according to the attributes like type, brand, category, price, etc.
